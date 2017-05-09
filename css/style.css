@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro');
+
+@import url('https://fonts.googleapis.com/css?family=Boogaloo|Source+Serif+Pro');
+
+body {
+  font-size: 20px;
+  font-family: 'Inconsolata', monospace;
+  color: green;
+  background: url('../images/ignasi_pattern_s.png');
+
+}
+
+h1 {
+  font-size: 50px;
+  font-family:'Righteous', cursive;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+ h2 {
+   font-size: 30px;
+   font-family:'Righteous', cursive;
+   margin-top: 20px;
+   margin-bottom: 0;
+ }
+
+h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+header {
+  height: auto;
+  width:  auto;
+  margin: 0;
+}
+
+nav ul {
+  margin: 0;
+  list-style: none;
+  padding-left: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+nav a {
+  color: rgb(195,191,66);
+  background-color: rgba(116,231,128,0.4);
+  border-radius: 5px;
+  display: inline-block;
+  padding: 5px;
+  text-decoration: none;
+}
+
+nav a:visited {
+  color: black;
+}
+
+nav a:hover {
+  color: grey;
+  background-color: white;
+}
+
+nav a:active {
+  color: green;
+}
+
+p {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#move {
+  border: 6px solid rgb(195,191,66);
+  position: relative;
+  top: 2px;
+  left: 0;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#container {
+  width: 960px;
+}
+
+#size {
+  margin-top: 10px;
+  float: left;
+  padding-right: 10px;
+}
+
+#footer {
+  margin-top: 30px;
+}
+
+.close {
+  margin: 0;
+}
+
+#distance {
+  margin-bottom: 5px;
+}
+
+.cool {
+  margin-bottom: 20px;
+}
+
+.space{
+  margin-bottom: 20px;
+}
+
+#yo{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.heading {
+  margin-top: 60px;
+}
