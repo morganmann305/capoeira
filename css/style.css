@@ -124,5 +124,10 @@ p {
 
 #align-left {
   float: left;
-  margin-right: 10px;
+  margin-right: 5px;
+}
+
+#align-right {
+  float: right;
+  margin-left: 5px;
 }
