@@ -1,37 +1,28 @@
-@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+@import url('https://fonts.googleapis.com/css?family=Ravi+Prakash');
 
-@import url('https://fonts.googleapis.com/css?family=Righteous');
-
-@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro');
-
-@import url('https://fonts.googleapis.com/css?family=Boogaloo|Source+Serif+Pro');
+@import url('https://fonts.googleapis.com/css?family=Audiowide');
 
 body {
-  font-size: 20px;
-  font-family: 'Inconsolata', monospace;
-  color: green;
-  background: url('../images/ignasi_pattern_s.png');
-
+  font-size: 40px;
+  font-family: 'Ravi Prakash', cursive;
+  color: rgb(38,166,91);
+  background: rgb(200,247,197);
+  text-align: center;
 }
 
 h1 {
-  font-size: 50px;
-  font-family:'Righteous', cursive;
+  font-size: 60px;
+  font-family:'Audiowide', cursive;
   margin-top: 0;
   margin-bottom: 0;
 }
 
  h2 {
-   font-size: 30px;
-   font-family:'Righteous', cursive;
+   font-size: 60px;
+   font-family:'Audiowide', cursive;
    margin-top: 20px;
    margin-bottom: 0;
  }
-
-h3 {
-  margin-top: 0;
-  margin-bottom: 0;
-}
 
 header {
   height: auto;
@@ -53,10 +44,12 @@ nav li {
 nav a {
   color: rgb(195,191,66);
   background-color: rgba(116,231,128,0.4);
-  border-radius: 5px;
+  border-radius: 20px;
   display: inline-block;
   padding: 5px;
   text-decoration: none;
+  margin-bottom: 30px;
+  margin-top: 30px;
 }
 
 nav a:visited {
@@ -86,9 +79,6 @@ p {
   margin-bottom: 20px;
 }
 
-#container {
-  width: 960px;
-}
 
 #size {
   margin-top: 10px;
