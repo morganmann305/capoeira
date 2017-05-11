@@ -121,3 +121,7 @@ p {
 .heading {
   margin-top: 60px;
 }
+
+#left {
+  margin-left: 50px;
+}
