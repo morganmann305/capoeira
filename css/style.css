@@ -123,9 +123,9 @@ p {
 }
 
 #left {
-  float: left;
+  float: right;
 }
 
 #right {
-  margin-right: 0;
+  float: left;
 }
