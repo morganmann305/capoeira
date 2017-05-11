@@ -123,7 +123,7 @@ p {
 }
 
 #left {
-  margin-left: 200px;
+  float: left;
 }
 
 #right {
