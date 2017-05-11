@@ -121,13 +121,3 @@ p {
 .heading {
   margin-top: 60px;
 }
-
-#align-left {
-  float: left;
-  margin-right: 5px;
-}
-
-#align-right {
-  float: right;
-  margin-left: 5px;
-}
