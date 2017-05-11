@@ -124,7 +124,7 @@ p {
 
 #left {
   float: top;
-  margin-left: 150px;
+  align: center;
 }
 
 #right {
